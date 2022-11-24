@@ -9,11 +9,9 @@ An enthusiastic, result-oriented and self-motivated Software Engineer with over 
 Ability to leverage full-stack knowledge and experience to build interactive and user-centered website design to scale.On a personal level, I have the strong listening skills needed to acquire and comprehend a user's exact system requirements.
 
 
-# Skills
+# Skills & Trainings
 - Software Development
 - HTML5 & CSS3
-- C#
-- JAVA
 - Javascript
 - NodeJS
 - ExpressJS Framework
@@ -22,5 +20,18 @@ Ability to leverage full-stack knowledge and experience to build interactive and
 - MS SQL Server
 - MongoDB
 - MySql
-- Docker & Docker Compose 
-- Ansible 
+- Docker
+- Experienced with WordPress CMS and E-Commerce implementation
+- Knowledge in designing and consuming REST API’s.
+- Performance and scalability optimization
+
+# Completed Projects
+- [Pupil's Handbook For JSS](https://play.google.com/store/apps/details?id=com.scorpiongarage.pupilshandbookjss&hl=en&gl=US)
+- [Scorpion Quotes](https://scorpion-quotes.netlify.app/)
+- [Cotton Tree Foundation](https://www.ctfsl.org/)
+
+# Interests 
+- Cloud Computing
+- CyberSecurity
+- AI
+- Web3
