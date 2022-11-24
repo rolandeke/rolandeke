@@ -35,3 +35,8 @@ Ability to leverage full-stack knowledge and experience to build interactive and
 - CyberSecurity
 - AI
 - Web3
+
+# Social Links
+- [Portfolio Website](https://www.chinedumeke.com/)
+- [LinkedIn](https://www.linkedin.com/in/chinedum-roland-eke-8a8904184/)
+- [Twitter](https://twitter.com/EkeRoland)
