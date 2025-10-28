@@ -57,7 +57,7 @@ I’m an **enthusiastic and result-oriented Software Engineer** with **5+ years 
 ---
 
 ## 🔗 Connect with Me  
-- 🌍 [Portfolio Website](https://www.chinedumeke.com/)  
+- 🌍 [Portfolio Website](https://www.chinedum.dev/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/chinedum-roland-eke-8a8904184/)  
 - 🐦 [Twitter](https://twitter.com/EkeRoland)  
 
