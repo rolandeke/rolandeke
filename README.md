@@ -33,26 +33,31 @@ I’m an **enthusiastic and result-oriented Software Engineer** with **5+ years 
 ---
 
 ## 📊 GitHub Stats  
-![Chinedum's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChinedumEke&show_icons=true&theme=tokyonight)  
+![Chinedum's GitHub stats](https://github-readme-stats.vercel.app/api?username=rolandeke&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinedumEke&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rolandeke&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChinedumEke&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rolandeke&theme=tokyonight)  
 
 ---
 
 ## 🚀 Featured Projects  
+- 👨‍⚕️ [Kenecare Virtual Hospital](https://www.kenecare.com)
 - 📘 [Pupil's Handbook For JSS](https://play.google.com/store/apps/details?id=com.scorpiongarage.pupilshandbookjss&hl=en&gl=US)  
 - 💬 [Scorpion Quotes](https://scorpion-quotes.netlify.app/)  
-- 🌳 [Cotton Tree Foundation](https://www.ctfsl.org/)  
+- 🌳 [Cotton Tree Foundation](https://www.ctfsl.org/)
+- 🍉 [Sierra Leone Seed Certification Agency](https://slesca.gov.sl/)
+- 🌏 [Develop Salone](https://developsalone.org/)
+- 📖 [Sa Lon Krio](https://salonkrio.com/)
 
 ---
 
 ## 🌱 Interests  
-- ☁️ Cloud Computing  
+- ☁️ Cloud Computing
+- 🚀 DevOps 
 - 🔐 Cybersecurity  
 - 🤖 Artificial Intelligence (AI)  
-- 🌐 Web3  
+
 
 ---
 
